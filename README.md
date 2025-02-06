@@ -17,7 +17,3 @@ I'm currently learning Django framework.
 ### FunFact
 - Honey never spoils! Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible.
 
-## 📫 Contact Information
-Feel free to reach out to me:
-- **Email:** [evalkariuki@gmail.com](mailto:evalkariuki@gmail.com)
-- **LinkedIn:** [Eva Kariuki](https://www.linkedin.com/in/evalyne-kariuki-74205b161/)

@@ -15,5 +15,7 @@ I'm currently learning Django framework.
 - **Technologies:** MySQL, PostgreSQL
 
 ### FunFact
-- Honey never spoils! Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible.
+- Fibonacci Day is November 23rd, as it has the digits "1, 1, 2, 3" which is part of the sequence. So next Nov 23 let everyone know!
+
+
 

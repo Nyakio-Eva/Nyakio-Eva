@@ -1,6 +1,6 @@
 ## Hi there! I'm Eva Nyakio👋 
 A proactive and result-oriented Software Engineer. I specialize in building robust web applications and delivering effective digital solutions. I love working on innovative projects that drive sustainable development and solve real-world problems.
-I'm currently learning Django framework.
+I'm currently learning FastAPI.
 
 ## 🛠️ Tech Stack
 ### Frontend
@@ -9,7 +9,7 @@ I'm currently learning Django framework.
 
 ### Backend
 - **Languages:** Python
-- **Frameworks:** Flask
+- **Frameworks:** Flask, Django
 
 ### Databases
 - **Technologies:** MySQL, PostgreSQL

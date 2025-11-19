@@ -1,6 +1,6 @@
 ## Hi there! I'm Eva Nyakio👋 
 A proactive and result-oriented Software Engineer. I specialize in building robust web applications and delivering effective digital solutions. I love working on innovative projects that drive sustainable development and solve real-world problems.
-I'm currently learning FastAPI.
+I'm currently learning PHP-Laravel.
 
 ## 🛠️ Tech Stack
 ### Frontend
